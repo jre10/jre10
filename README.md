@@ -2,7 +2,7 @@
 - 👀 I’m interested in no-code, projects, enrepreneurship, missions, ...
 - 🌱 I’m currently learning no-code and more
 - 💞️ I’m looking to collaborate on mobile and ab applications
-- 📫 How to reach me jre@jreservices.fr
+- 📫 How to reach me contact@jreservices.fr
 
 See you Soon :)
 
