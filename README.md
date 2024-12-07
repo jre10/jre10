@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @jre10
-- 👀 I’m interested in no-code, projects, enrepreneurship, missions, ...
-- 🌱 I’m currently learning no-code and more
-- 💞️ I’m looking to collaborate on mobile and ab applications
-- 📫 How to reach me contact@jreservices.fr
+- 👀 I’m interested in no-code, projects, datavisualization ...
+- 🌱 Admin of Zéro Déchet Troyes.
+- 💞️ Working on WordPress, sankey diagram
+- 📫 Contact me on jose.relland@free.fr
 
 See you Soon :)
 
-Best Regards, José from France, Troyes
+Best Regards, José, from France, Troyes
 
 <!---
 jre10/jre10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
